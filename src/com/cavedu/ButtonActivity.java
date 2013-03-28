@@ -20,7 +20,7 @@ public class ButtonActivity extends Activity {
 			public void onClick(View v) {
 				// TODO Auto-generated method stub
 				TextView myTextView = (TextView)findViewById(R.id.textview1);
-				myTextView.setText("Good morning~");
+				myTextView.setText("ATest Git~");
 			}
         	
         });
